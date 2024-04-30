@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Jersey+25&display=swap');
+
+.fontGenerale{
+    font-family: "Jersey 25", sans-serif;
+    color: black;
+
+}
+
+
+
 .titolo{
     color: blue;
     background-color: aqua;
